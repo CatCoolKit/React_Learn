@@ -23,7 +23,7 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCF5ddep9Pf1obOSAFP3iTHB8J9EZhUH6I",
+  apiKey: "",
   authDomain: "fir-240901.firebaseapp.com",
   projectId: "fir-240901",
   storageBucket: "fir-240901.appspot.com",
